@@ -1,0 +1,12 @@
+Employee Details: 
+Employee Id: 1
+Employee Name: Shruthin Satheesh
+Employee Salary: 100000.0
+Employee Details: 
+Employee Id: 2
+Employee Name: Anitha Satheesh 
+Employee Salary: 200000.0
+Employee Details: 
+Employee Id: 3
+Employee Name: M.G Satheesh
+Employee Salary: 300000.0
